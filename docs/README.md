@@ -69,30 +69,3 @@ type = type ||
 
 adding support for `new` keyword, string `prototype`, and `console` wiki!
 
-
-> this man's under oppression
-> you just have to let go
-> shrapnel through your retinal
-> passin' through the ghetto
-> mister have'm'rested
-> imprisoned adolescence
-> listen to the message
-> written on the west bridge
-> inner-city text-books
-> bills for the electric
-> deal just to collect rent
-> here's another neglected
-> kill up in the residence
-> hills are for the rednecks
-> pills are for the rich kids
-> steal to have your medicince
-> really how's it different
-> imported by the dea
-> hormones in vegetables
-> pharmaceutical mafia
-> that's not even the half of it
-> monopolizin the oil too
-> outsourcin the oil too
-> armin forces of terror groups
-> allocatin your data used
-> it's captain america
